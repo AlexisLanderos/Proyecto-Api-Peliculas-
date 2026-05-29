@@ -8,4 +8,4 @@ function truncate(text, length) {
   return text.substring(0, length) + "...";
 }
 
-module.exports = truncate;
+module.exports = truncate;k
